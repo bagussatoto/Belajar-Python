@@ -42,3 +42,4 @@ Penugasan diadakan perminggu. Peserta diminta membuat video terkait materi yang 
 - Kelas Terbuka (Youtube)
 - Programmer Zaman Now (Youtube)
 - w3school
+- Kelas coding
