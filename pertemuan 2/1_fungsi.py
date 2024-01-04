@@ -41,28 +41,28 @@ print(myFunction())
 def myFunction(name):
   print("Hello " + name)
 
-myFunction("asep")
+myFunction("budi")
 
 # Contoh 2: Required Parameter
 def myFunction(name, age):
   print("Hello " + name + ", your age is " + str(age))
 
-myFunction("asep", 20)
+myFunction("budi", 20)
 
 # Contoh 3: Keyword Argument
 def myFunction(name, age):
   print("Hello " + name + ", your age is " + str(age))
 
-myFunction(age=20, name="asep")
+myFunction(age=20, name="budi")
 
 # Contoh 4: Default Parameter
 def myFunction(name, age=20):
   print("Hello " + name + ", your age is " + str(age))
 
-myFunction("asep")
+myFunction("budi")
 
 # Contoh 5: Default Parameter
-def myFunction(name="asep", age=20):
+def myFunction(name="budi", age=20):
   print("Hello " + name + ", your age is " + str(age))
 
 myFunction()
@@ -89,23 +89,23 @@ print(myFunction())
 def myFunction(name):
   return "Hello " + name
 
-print(myFunction("asep"))
+print(myFunction("budi"))
 
 # Contoh 4: non-void
 def myFunction(name, age):
   return "Hello " + name + ", your age is " + str(age)
 
-print(myFunction("asep", 20))
+print(myFunction("budi", 20))
 
 # Contoh 5: non-void
 def myFunction(name, age):
   return "Hello " + name + ", your age is " + str(age)
 
-print(myFunction(age=20, name="asep"))
+print(myFunction(age=20, name="budi"))
 
 # Contoh 6: non-void
 def myFunction(name, age=20):
   return "Hello " + name + ", your age is " + str(age)
 
-print(myFunction("asep"))
+print(myFunction("budi"))
 
