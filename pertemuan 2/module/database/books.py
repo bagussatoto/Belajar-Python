@@ -4,7 +4,7 @@ books = [
     "author": "Author 1"
   }
 ]
-
+.
 def insertBook(title, author):
   book = {
     "title": title,
