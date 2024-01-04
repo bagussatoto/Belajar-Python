@@ -5,6 +5,7 @@
 ### x = 10
 ### y = 20
 ### z = x + y
+### 
 
 # Apa itu komentar?
 ## Komentar adalah sebuah penjelasan yang ditulis di dalam kode program
