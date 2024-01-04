@@ -13,7 +13,7 @@ Variabel digunakan untuk menyimpan nilai. Setiap variabel memiliki tipe data ter
 
 ```python
 nama = "John"
-umur = 25
+umur = 26
 tinggi = 175.5
 is_student = True
 ```
