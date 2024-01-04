@@ -6,7 +6,7 @@ Penugasan diadakan perminggu. Peserta diminta membuat video terkait materi yang 
 
 **Syarat & Ketentuan Video:**
 - Harus menggunakan suara pribadi
-- Dalam video harus berisi terkait materi yang sudah diberikan setiap minggunya
+- Dalam video harus berisi terkait materi yang sudah diberikan setiap minggunya.
 
 ## Materi
 - Python Dasar
