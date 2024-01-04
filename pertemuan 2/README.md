@@ -51,11 +51,13 @@ Gunakan pernyataan import untuk mengimpor modul ke dalam skrip Python Anda. Cont
 import modul_sapa
 modul_sapa.sapa("John")
 
-```
+`````
 
 ### 2.4 Menggunakan Alias
 Anda dapat memberikan alias saat mengimpor modul untuk mempersingkat penulisan. Contoh:
-```python
+
+````python
+
 # skrip.py
 import modul_sapa as ms
 ms.sapa("John")
