@@ -7,7 +7,7 @@
 - Materi pembelajaran yang sudah diberikan setiap hari.
 
 ## Materi
-- Python Dasar
+- [Python Dasar](./pertemuan%201/README.md)
   - Tipe Data
   - Variabel
   - Komentar
