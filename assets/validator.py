@@ -2,7 +2,7 @@ def validate_todo(todo, is_done):
     """
     Fungsi ini digunakan untuk validasi todo dan is_done
     dan akan mengembalikan error jika ada error
-    menggunakan teknik retur   ooo
+    menggunakan teknik retur  
     dan perlu di cek terlebih dahulu jika ada return maka kembalikan errornya contohnya ada pada route update
     """
     errors = []
