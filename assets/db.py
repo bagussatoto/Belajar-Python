@@ -12,4 +12,3 @@ conn = psycopg2.connect(
 # id serial
 # todo varchar
 # is_done boolean
-# Db
