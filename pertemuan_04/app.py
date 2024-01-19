@@ -56,22 +56,22 @@ def belajar_query_parameter():
 # Flask Route With Variable Rules
 
 # Rule string: Hanya Mengambil string
-# Contoh Sukses: /user/binsar
-# Contoh Gagal: /user/binsar/1
+# Contoh Sukses: /user/bagussatoto
+# Contoh Gagal: /user/bagussatoto/1
 @app.route('/user/<username>')
 def show_user_profile(username):
   return f"User: {username}"
 
 # Rule int: Hanya Mengambil bilangan bulat
 # Contoh Sukses: /post/1
-# Contoh Gagal: /post/binsar
+# Contoh Gagal: /post/bagussatoto
 @app.route('/post/<int:post_id>')
 def show_post(post_id):
   return f"Post: {post_id}"
 
 # Rule float: Hanya Mengambil bilangan desimal
 # Contoh Sukses: /angka/1.2
-# Contoh Gagal: /angka/binsar
+# Contoh Gagal: /angka/bagussatoto
 @app.route('/angka/<float:angka>')
 def show_angka(angka):
   return f"Angka: {angka}"
