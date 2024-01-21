@@ -10,21 +10,8 @@
 
 <details>
     <summary> ● Pertemuan 1</summary>
-- Python Dasar&rarr; [s
-- Tipe Data
-- Variabel
-- Komentar
-- Aritmatika
-- Perbandingan
-- Percabangan (IF/Else)
-- Perulangan
 
-</details>
-
-
-
-
-- [Python Dasar](./pertemuan%201/README.md)
+- [Python Dasar](./pertemuan_01/main.py)
   - Tipe Data
   - Variabel
   - Komentar
@@ -32,9 +19,17 @@
   - Perbandingan
   - Percabangan (IF/Else)
   - Perulangan
-- Python Lanjut
-  - Function
-  - Module
+
+</details>
+
+
+<details>
+    <summary> ● Pertemuan 2</summary>
+
+- Pyth
+
+</details>
+
 - Flask (Web + RESTful API)
   - Routing
   - Templating (Jinja)
