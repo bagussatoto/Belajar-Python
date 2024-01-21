@@ -27,7 +27,6 @@
     <summary> ● Pertemuan 2</summary>
 
 - [Python Lanjutan](./pertemuan_02/README.md)
-
   1. [Fungsi](./pertemuan_02/1_fungsi.py)
       1.  Pengenalan Fungsi
       2.  Definisi Fungsi
@@ -42,13 +41,25 @@
 
 </details>
 
-- Flask (Web + RESTful API)
-  - Routing
-  - Templating (Jinja)
+<details>
+    <summary> ● Pertemuan 3</summary>
+
+- [Python Flask (Web + RESTful API)](./pertemuan_03/README.md)
+  1.  [Routing](./pertemuan_03/app.py)
+  2.  [Templating (Jinja)](./pertemuan_03/template/jinja.html)
+
+</details>
+
+
   - Redirect
   - Response
   - Static Files
   - CRUD (data dummy dengan List)
+
+
+
+
+
 - Database Postgresql
   - DML
   - Implementasi dengan Flask
