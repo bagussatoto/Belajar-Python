@@ -12,13 +12,13 @@
     <summary> ● Pertemuan 1</summary>
 
 - [Python Dasar](./pertemuan_01/README.md)
-  - Tipe Data
-  - Variabel
-  - Komentar
-  - Aritmatika
-  - Perbandingan
-  - Percabangan (IF/Else)
-  - Perulangan
+  1. Tipe Data
+  2. Variabel
+  3. Komentar
+  4. Aritmatika
+  5. Perbandingan
+  6. Percabangan (IF/Else)
+  7. Perulangan
 
 </details>
 
@@ -27,11 +27,18 @@
     <summary> ● Pertemuan 2</summary>
 
 - [Python Lanjutan](./pertemuan_02/README.md)
-  - [Fungsi](./pertemuan_02/1_fungsi.py)
-    - Pengenalan Fungsi
-    - Definisi Fungsi
-    - Parameter dan Argumen
-    - Nilai Kembalian
+
+  1. [Fungsi](./pertemuan_02/1_fungsi.py)
+      1.  Pengenalan Fungsi
+      2.  Definisi Fungsi
+      3.  Parameter dan Argumen
+      4.  Nilai Kembalian
+
+  2. [Modul](./pertemuan_02/2_module.py)
+      1.  Apa itu Modul?
+      2.  Membuat Modul
+      3.  Mengimpor Modul
+      4.  menggunakan Alias
 
 </details>
 
