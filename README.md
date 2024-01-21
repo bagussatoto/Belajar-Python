@@ -11,7 +11,7 @@
 <details>
     <summary> ● Pertemuan 1</summary>
 
-- [Python Dasar](./pertemuan_01/main.py)
+- [Python Dasar](./pertemuan_01/README.md)
   - Tipe Data
   - Variabel
   - Komentar
@@ -26,7 +26,12 @@
 <details>
     <summary> ● Pertemuan 2</summary>
 
-- Pyth
+- [Python Lanjutan](./pertemuan_02/README.md)
+  - [Fungsi](./pertemuan_02/1_fungsi.py)
+    - Pengenalan Fungsi
+    - Definisi Fungsi
+    - Parameter dan Argumen
+    - Nilai Kembalian
 
 </details>
 
