@@ -7,6 +7,23 @@
 - Materi pembelajaran yang sudah diberikan setiap hari.
 
 ## Materi
+
+<details>
+    <summary> ● Pertemuan 1</summary>
+- Python Dasar&rarr; [s
+- Tipe Data
+- Variabel
+- Komentar
+- Aritmatika
+- Perbandingan
+- Percabangan (IF/Else)
+- Perulangan
+
+</details>
+
+
+
+
 - [Python Dasar](./pertemuan%201/README.md)
   - Tipe Data
   - Variabel
