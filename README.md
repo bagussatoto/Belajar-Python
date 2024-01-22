@@ -77,6 +77,6 @@
 ● [Projek](./pertemuan_12_Proyek/)
 
 ## Rekomendasi Source Luar
-- Kelas Terbuka (Youtube)
-- Programmer Zaman Now (Youtube)
-- w3school
+- [Kelas Terbuka (Youtube)](https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=ApZdFQ1z6PU81v9S)
+- [Programmer Zaman Now (Youtube)](https://youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H&si=gm6ZFITD4iiL71oB)
+- [w3school](https://www.w3schools.com/python/default.asp)
