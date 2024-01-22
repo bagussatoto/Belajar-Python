@@ -58,25 +58,23 @@
 <details>
     <summary> ● Database Postgresql </summary>
 
-- [Database Postgresql ](./pertemuan_03/README.md)
-  1.  Routing
-  2.  Templating (Jinja)
-  3.  Redirect
-  4.  Response
-  5.  Static Files
-  6.  CRUD (data dummy dengan List)
+- [Database Postgresql](./pertemuan_03/README.md)
+  1.  DML
+  2.  Implementasi dengan Flask
 
 </details>
 
+<details>
+    <summary> ● Authentication </summary>
 
-- 
-  - DML
-  - Implementasi dengan Flask
-- Authentication
-  - Basic Auth
-  - JWT
-- Dokumentasi API (Swagger)
-- Projek
+- [Authentication](./pertemuan_03/README.md)
+  1.  Basic Auth
+  2.  JWT
+
+</details>
+
+● Dokumentasi API (Swagger) <br>
+● Projek
 
 ## Rekomendasi Source Luar
 - Kelas Terbuka (Youtube)
