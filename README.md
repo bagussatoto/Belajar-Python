@@ -50,6 +50,18 @@
 
 </details>
 
+<details>
+    <summary> ● Pertemuan 4</summary>
+
+- [Python Flask (Web + RESTful API)](./pertemuan_03/README.md)
+  1.  [Routing](./pertemuan_03/app.py)
+  2.  [Templating (Jinja)](./pertemuan_03/template/jinja.html)
+  3.  Redirect
+  4.  Response
+  5.  Static Files
+  6.  CRUD (data dummy dengan List)
+
+</details>
 
   - Redirect
   - Response
