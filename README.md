@@ -60,7 +60,7 @@
 
 - [Database Postgresql](./pertemuan_03/README.md)
   1.  DML
-  2.  Implementasi dengan Flask
+  2.  [Implementasi dengan Flask](/pertemuan_10/)
 
 </details>
 
@@ -69,12 +69,12 @@
 
 - [Authentication](./pertemuan_03/README.md)
   1.  Basic Auth
-  2.  JWT
+  2.  [JWT](./pertemuan_10/authjwt/)
 
 </details>
 
 ● Dokumentasi API (Swagger) <br>
-● Projek
+● [Projek](./pertemuan_12_Proyek/)
 
 ## Rekomendasi Source Luar
 - Kelas Terbuka (Youtube)
