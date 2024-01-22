@@ -55,9 +55,21 @@
 </details>
 
 
+<details>
+    <summary> ● Database Postgresql </summary>
+
+- [Database Postgresql ](./pertemuan_03/README.md)
+  1.  Routing
+  2.  Templating (Jinja)
+  3.  Redirect
+  4.  Response
+  5.  Static Files
+  6.  CRUD (data dummy dengan List)
+
+</details>
 
 
-- Database Postgresql
+- 
   - DML
   - Implementasi dengan Flask
 - Authentication
