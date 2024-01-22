@@ -9,7 +9,7 @@
 ## Materi
 
 <details>
-    <summary> ● Pertemuan 1</summary>
+    <summary> ● Python Dasar</summary>
 
 - [Python Dasar](./pertemuan_01/README.md)
   1. Tipe Data
@@ -24,7 +24,7 @@
 
 
 <details>
-    <summary> ● Pertemuan 2</summary>
+    <summary> ● Python Lanjutan </summary>
 
 - [Python Lanjutan](./pertemuan_02/README.md)
   1. [Fungsi](./pertemuan_02/1_fungsi.py)
@@ -42,32 +42,17 @@
 </details>
 
 <details>
-    <summary> ● Pertemuan 3</summary>
+    <summary> ● Python Flask </summary>
 
 - [Python Flask (Web + RESTful API)](./pertemuan_03/README.md)
-  1.  [Routing](./pertemuan_03/app.py)
-  2.  [Templating (Jinja)](./pertemuan_03/template/jinja.html)
-
-</details>
-
-<details>
-    <summary> ● Pertemuan 4</summary>
-
-- [Python Flask (Web + RESTful API)](./pertemuan_03/README.md)
-  1.  [Routing](./pertemuan_03/app.py)
-  2.  [Templating (Jinja)](./pertemuan_03/template/jinja.html)
+  1.  Routing
+  2.  Templating (Jinja)
   3.  Redirect
   4.  Response
   5.  Static Files
   6.  CRUD (data dummy dengan List)
 
 </details>
-
-  - Redirect
-  - Response
-  - Static Files
-  - CRUD (data dummy dengan List)
-
 
 
 
